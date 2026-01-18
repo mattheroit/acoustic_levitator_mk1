@@ -1,6 +1,6 @@
 # Akustický levitátor mk1
 
-::: [!INFO] Zdrojový kód & soubory
+::: [!NOTE] Zdrojový kód & soubory
 Všechny zdrojové kódym a 3D modely naleznete v
 [:github: GitHub repozitáři](https://github.com/mattheroit/acoustic_levitator_mk1).
 :::

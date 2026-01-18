@@ -1,6 +1,6 @@
 # Acoustic levitator mk1
 
-::: [!INFO] Source Code & Files
+::: [!NOTE] Source Code & Files
 All source code and 3D models can be found in this
 [:github: GitHub Repository](https://github.com/mattheroit/acoustic_levitator_mk1).
 :::
