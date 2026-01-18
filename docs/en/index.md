@@ -39,5 +39,5 @@ It is the first functional prototype (mk1), aimed at verifying the principle of 
 
 [repo]: https://github.com/mattheroit/acoustic_levitator_mk1
 [tinylev]: https://www.instructables.com/Acoustic-Levitator/
-[license-mit]: ./LICENSE.md
+[license-mit]: https://github.com/mattheroit/acoustic_levitator_mk1/blob/main/LICENSE.md
 [license-cc-by-sa-4.0]: https://creativecommons.org/licenses/by-sa/4.0/
