@@ -1,7 +1,7 @@
 # Akustický levitátor mk1
 
 > [!NOTE] Zdrojový kód & soubory
-> Všechny zdrojové kódym a 3D modely naleznete v
+> Všechny zdrojové kódy a 3D modely naleznete v
 > [GitHub repozitáři][repo].
 
 Tento projekt byl vytvořen v rámci školního předmětu a slouží jako demonstrace
