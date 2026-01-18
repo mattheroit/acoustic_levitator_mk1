@@ -1,9 +1,8 @@
 # Acoustic levitator mk1
 
-::: [!NOTE] Source Code & Files
-All source code and 3D models can be found in this
-[:github: GitHub Repository](https://github.com/mattheroit/acoustic_levitator_mk1).
-:::
+> [!NOTE] Source Code & Files
+> All source code and 3D models can be found in this
+> [GitHub Repository][repo].
 
 This project was created as part of a school course and serves as a demonstration of acoustic levitation using ultrasonic waves.
 
@@ -18,8 +17,7 @@ It is the first functional prototype (mk1), aimed at verifying the principle of 
 
 ## Project status
 
-> [!WARNING]
-> **Prototype / Demonstration Project**
+> [!WARNING] Prototype / Demonstration Project
 >
 > - Not optimized for stability or performance
 > - Not intended for practical use
@@ -37,6 +35,9 @@ It is the first functional prototype (mk1), aimed at verifying the principle of 
 | CAD models (FreeCAD, STL) | [**CC BY-SA 4.0**][license-cc-by-sa-4.0] |
 | Documentation             | [**CC BY-SA 4.0**][license-cc-by-sa-4.0] |
 
+<!-- Links --->
+
+[repo]: https://github.com/mattheroit/acoustic_levitator_mk1
 [tinylev]: https://www.instructables.com/Acoustic-Levitator/
 [license-mit]: ./LICENSE.md
 [license-cc-by-sa-4.0]: https://creativecommons.org/licenses/by-sa/4.0/

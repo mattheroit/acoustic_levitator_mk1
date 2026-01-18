@@ -1,9 +1,8 @@
 # Akustický levitátor mk1
 
-::: [!NOTE] Zdrojový kód & soubory
-Všechny zdrojové kódym a 3D modely naleznete v
-[:github: GitHub repozitáři](https://github.com/mattheroit/acoustic_levitator_mk1).
-:::
+> [!NOTE] Zdrojový kód & soubory
+> Všechny zdrojové kódym a 3D modely naleznete v
+> [GitHub repozitáři][repo].
 
 Tento projekt byl vytvořen v rámci školního předmětu a slouží jako demonstrace
 akustické levitace pomocí ultrazvukových vln.
@@ -20,8 +19,7 @@ lehkých objektů (např. polystyrenových kuliček) pomocí stojatého akustick
 
 ## Stav projektu
 
-> [!WARNING]
-> **Prototyp / demonstrační projekt**
+> [!WARNING] Prototyp / demonstrační projekt
 >
 > - Není optimalizován pro stabilitu ani výkon
 > - Není určen pro praktické použití
@@ -39,6 +37,9 @@ lehkých objektů (např. polystyrenových kuliček) pomocí stojatého akustick
 | CAD modely (FreeCAD, STL) | [**CC BY-SA 4.0**][license-cc-by-sa-4.0] |
 | Dokumentace               | [**CC BY-SA 4.0**][license-cc-by-sa-4.0] |
 
+<!-- Links --->
+
+[repo]: https://github.com/mattheroit/acoustic_levitator_mk1
 [tinylev]: https://www.instructables.com/Acoustic-Levitator/
 [license-mit]: ./LICENSE.md
 [license-cc-by-sa-4.0]: https://creativecommons.org/licenses/by-sa/4.0/
