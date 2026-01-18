@@ -34,7 +34,7 @@ Podrobný popis konstrukce, zapojení, použitých komponent a principu funkce j
 
 | Část projektu             | Licence                                  |
 | ------------------------- | ---------------------------------------- |
-| Zdrojový kód:             | [**MIT**][license-mit]                   |
+| Zdrojový kód              | [**MIT**][license-mit]                   |
 | CAD modely (FreeCAD, STL) | [**CC BY-SA 4.0**][license-cc-by-sa-4.0] |
 | Dokumentace               | [**CC BY-SA 4.0**][license-cc-by-sa-4.0] |
 
