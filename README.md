@@ -19,8 +19,7 @@ lehkých objektů (např. polystyrenových kuliček) pomocí stojatého akustick
 > **Prototyp / demonstrační projekt**
 >
 > - Není optimalizován pro stabilitu ani výkon
-> - Není určen pro praktické použití
-> - Slouží primárně k výuce a demonstraci fyzikálního principu
+> - Slouží primárně k demonstraci fyzikálního principu
 
 ## Dokumentace
 
@@ -38,7 +37,7 @@ Podrobný popis konstrukce, zapojení, použitých komponent a principu funkce j
 | CAD modely (FreeCAD, STL) | [**CC BY-SA 4.0**][license-cc-by-sa-4.0] |
 | Dokumentace               | [**CC BY-SA 4.0**][license-cc-by-sa-4.0] |
 
-[website]: https://mattheroit.com/
+[website]: https://mattheroit.com/projects/acoustic_levitator_mk1
 [tinylev]: https://www.instructables.com/Acoustic-Levitator/
 [license-mit]: ./LICENSE.md
 [license-cc-by-sa-4.0]: https://creativecommons.org/licenses/by-sa/4.0/
