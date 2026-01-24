@@ -8,7 +8,7 @@ Tento projekt byl vytvořen v rámci školního předmětu a slouží jako demon
 akustické levitace pomocí ultrazvukových vln.
 
 Jedná se o první funkční prototyp (mk1), jehož cílem je ověřit princip levitace
-lehkých objektů (např. polystyrenových kuliček) pomocí stojatého akustického pole. Pokud bude nálada, postavím mk2.
+lehkých objektů (např. polystyrenových kuliček) pomocí stojatého akustického pole.
 
 ## Co projekt obsahuje
 
@@ -22,8 +22,7 @@ lehkých objektů (např. polystyrenových kuliček) pomocí stojatého akustick
 > [!WARNING] Prototyp / demonstrační projekt
 >
 > - Není optimalizován pro stabilitu ani výkon
-> - Není určen pro praktické použití
-> - Slouží primárně k výuce a demonstraci fyzikálního principu
+> - Slouží primárně k demonstraci fyzikálního principu
 
 ## Inspirace
 

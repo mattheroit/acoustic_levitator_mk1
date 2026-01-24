@@ -6,7 +6,7 @@
 
 This project was created as part of a school course and serves as a demonstration of acoustic levitation using ultrasonic waves.
 
-It is the first functional prototype (mk1), aimed at verifying the principle of levitating light objects (e.g., polystyrene beads) using a standing acoustic field. If i feel like it, I'll build a mk2.
+It is the first functional prototype (mk1), aimed at verifying the principle of levitating light objects (e.g., polystyrene beads) using a standing acoustic field.
 
 ## What the project includes
 
@@ -20,8 +20,7 @@ It is the first functional prototype (mk1), aimed at verifying the principle of 
 > [!WARNING] Prototype / Demonstration Project
 >
 > - Not optimized for stability or performance
-> - Not intended for practical use
-> - Serves primarily for education and demonstration of physical principles
+> - Serves primarily as a demonstration of physical principles
 
 ## Inspiration
 
